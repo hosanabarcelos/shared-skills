@@ -20,7 +20,7 @@ A [Pirâmide de Glasser](https://www.ludospro.com.br/blog/piramide-de-aprendizag
 
  ## Tecnologias
 
-Tecnologias e ferramentas utilizadas no desenvolvimento do projeto:
+Tecnologias e utilizadas no desenvolvimento do projeto:
 
 - [React Native](https://reactnative.dev)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
