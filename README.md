@@ -26,6 +26,4 @@ Tecnologias utilizadas no desenvolvimento do projeto:
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 Feito com :purple_heart: by [Hosana Barcelos](https://github.com/hosanabarcelos). 
-<br>
-<br>
-Agradecimentos à Isabelle Arcanjo, Isabele Moreira, Carlos Rangel e Rian Bahiense. 
+
