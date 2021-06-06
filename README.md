@@ -10,10 +10,6 @@
 
 **Shared Skills** é uma aplicação desenvolvida com o objetivo de atrair pessoas interessadas em estudar ou praticar habilidades favoráveis e de interesse, com outras pessoas.
 
-<p align="center">
-  <img width="250" height="500" src="https://github.com/hosanabarcelos/shared-skills/blob/main/video.gif">
-</p>
-
 ## Referencial teórico
 
 A [Pirâmide de Glasser](https://www.ludospro.com.br/blog/piramide-de-aprendizagem) foi a principal base para o projeto. Consiste em uma teoria criada pelo psiquiatra Willian Glasser. A teoria chamada de Teoria da Escolha afirma que ser humano algum é desmotivado, que apesar de todos os seus problemas ninguém deseja intencionalmente o fracasso de si mesmo, mas sim buscar aprendizado constante. 
@@ -25,5 +21,5 @@ Tecnologias utilizadas no desenvolvimento do projeto:
 - [React Native](https://reactnative.dev)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-Feito com :purple_heart: by [Hosana Barcelos](https://github.com/hosanabarcelos). 
+Feito com 🖤 by [Hosana Barcelos](https://github.com/hosanabarcelos). 
 
